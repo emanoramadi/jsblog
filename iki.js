@@ -1,1 +1,1 @@
-linke = 'movieright.us';
+alert('hahahaha');
